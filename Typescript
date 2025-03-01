@@ -1,0 +1,123 @@
+Typescript
+
+#
+https://itnext.io/server-side-typescript-with-node-c5cef1584684?gi=ea07bbbbc34f
+
+#video from the beginning for newbie
+https://www.youtube.com/watch?v=BwuLxPH8IDs&ab_channel=Academind
+
+
+# Compile ts to javascript
+tsc Helloworls.ts
+
+#nodejs runs js code
+
+node Helloworls.js
+
+
+#visual code, extentions
+- Integrates ESLint into VS Code. If you are new to ESLint check the documentation.
+- Material Design Icons for Visual Studio Code
+- Visual Studio Code plugin that autocompletes filenames
+- Prettier Formatter for Visual Studio Code
+
+
+#tutorial
+https://www.tutorialspoint.com/typescript/typescript_basic_syntax.htm
+
+
+#typescript
+https://www.educative.io/answers/how-to-execute-the-typescript-file-using-the-command-line
+
+
+#ESLint
+https://eslint.org/
+ESLint is an open source project that helps you find and fix problems with your JavaScript code. It doesn't matter if you're writing JavaScript in the browser ...
+
+#prettier
+https://prettier.io/
+An opinionated code formatter.
+
+------- -----
+
+I just wanted to note your interview will be specific to TypeScript. Your Coding Interview has been scheduled for Tuesday, June 18 at 1pm ET with Mark McGranaghan. Prior to your interview, we recommend setting up our out-of-the-box repo for TypeScript, which will give you an environment that's ready to 
+
+go with Jest, TS, eslint, and prettier. Make sure you have Node.js installed.
+
+https://github.com/stainless-api/typescript-interview
+
+
+#create typescript project
+tsc --init
+
+#compile
+ts-node index.ts
+
+tsconfig.json
+	target -> es versions (20162,2017,,,,2023,es3,es5,es6,esnext)
+
+
+#types
+#readonly
+type ReadOnlyEmployee = Readonly<Employee> 
+
+#Record
+type PositionsSalaries = Record<Positions, { salary: number }>
+
+
+let ps: PositionsSalaries = {
+    Programmer: { salary: 0 },
+    Manager: { salary: 0 },
+    HR: { salary: 0 },
+    'Scrum Master': { salary: 0 },
+};
+
+
+
+#event loop
+https://www.youtube.com/watch?v=cCOL7MC4Pl0
+
+
+
+https://www.udemy.com/course/ai-nodejs-openai-chatgpt-langchain-typescript/
+
+
+GitHub Copilot - The Complete Guide:
+
+https://www.udemy.com/course/github-copilot-the-complete-guide/?couponCode=JUL2024
+
+
+Unit Testing for Typescript & NodeJs Developers with Jest:
+
+https://www.udemy.com/course/unit-testing-typescript-nodejs/?couponCode=JUL2024
+
+
+Typescript 5 for developers:
+
+https://www.udemy.com/course/typescript-full-stack-programming/?couponCode=JUL2024
+
+
+
+Mastering Visual Studio Code:
+
+https://www.udemy.com/course/mastering-visual-studio-code/?couponCode=JUL2024
+
+
+
+NPM - Node package manager - Quickstart and Advanced - FREE
+
+https://www.udemy.com/course/npm-node-package-manager-course/
+
+
+Generative AI for Nodejs: OpenAI, LangChain- Typescipt
+
+
+#all tutorial
+https://www.typescriptlang.org/docs/handbook/2/everyday-types.html
+
+
+#typescript support table
+https://compat-table.github.io/compat-table/es6/
+
+
+next-gejavascript means EC6+
