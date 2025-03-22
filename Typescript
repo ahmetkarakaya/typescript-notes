@@ -121,3 +121,59 @@ https://compat-table.github.io/compat-table/es6/
 
 
 next-gejavascript means EC6+
+
+#tutorial quick
+https://www.tutorialspoint.com/typescript/typescript_array_splice.htm
+
+#record
+https://www.typescriptlang.org/docs/handbook/utility-types.html
+
+#github
+https://github.com/mschwarzmueller/understanding-typescript-resources/blob/main/attachments/09-classes-generics-practice/linked-list.ts
+
+
+#drag drop event
+https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API
+
+
+#Module Name Features
+1- NameSpace and File Bundeling (Typescript Feature)
+2- ES Modules (new Java Script feature)
+https://medium.com/computed-comparisons/commonjs-vs-amd-vs-requirejs-vs-es6-modules-2e814b114a0b
+
+
+#declare
+https://job.js.org/questions/typescript/ts-declare/
+
+
+#build tools
+webpack vs esbuild vs vite 
+Official Webpack Docs: https://webpack.js.org/
+
+
+#dts file
+1) Ship your library code in .ts files (i.e., do not compile it to JavaScript)
+
+2) Ship your library code in .js files (i.e., compiled or natively written in JavaScript) AND also ship .d.ts files to provide a "bridge" from JS to TS
+
+3) Ship your library code in .js files (i.e., compiled or natively written in JavaScript) AND rely on other people to create .d.ts files that are installable via @types/<your-library> (or share those .d.ts files in that repository yourself)
+
+
+#zod
+https://zod.dev/
+Zod is a TypeScript-first schema declaration and validation library. I'm using the term "schema" to broadly refer to any data type, from a simple string to a complex nested object.
+
+#Google Map
+Google Maps Pricing: https://cloud.google.com/maps-platform/pricing/sheet/
+
+Google Geocoding API: https://developers.google.com/maps/documentation/geocoding/start
+
+Google Maps JS SDK: https://developers.google.com/maps/documentation/javascript/tutorial
+
+
+#react
+npm create vite@latest react-ts
+
+
+#Running TypeScript code with Node.js
+https://nodejs.org/en/learn/typescript/run-natively
