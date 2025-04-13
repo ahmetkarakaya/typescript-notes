@@ -177,3 +177,41 @@ npm create vite@latest react-ts
 
 #Running TypeScript code with Node.js
 https://nodejs.org/en/learn/typescript/run-natively
+
+#npx
+npx stands for Node Package eXecute.
+>npx ts-node-dev src/main.ts 
+
+#nest cli install
+nest new messages
+nest generate module messages
+npm install -g @nestjs/cli
+
+
+Visual Studio Extention
+Rest Client
+
+
+#Class Validator
+https://github.com/typestack/class-validator
+https://github.com/typestack/class-transformer
+
+
+#all tutorial
+https://www.typescriptlang.org/docs/handbook/2/everyday-types.html
+
+
+#typescript support table
+https://compat-table.github.io/compat-table/es6/
+
+
+next-gejavascript means EC6+
+
+#
+https://jsonplaceholder.typicode.com/
+
+#
+https://www.typescriptlang.org/play
+
+#fake data generator
+https://github.com/faker-js/faker#typescript-support
